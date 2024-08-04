@@ -43,4 +43,4 @@ Now you are ready to run your Telegram bot. Make sure your virtual environment i
 python bot.py
 ```
 ### Acknowledgments
-Thank you for choosing my project. If you have any questions or suggestions, feel free to [contact](denzel03022@gmail.com) me.
+Thank you for choosing my project. If you have any questions or suggestions, feel free to [contact](mailto:denzel03022@gmail.com) me.
